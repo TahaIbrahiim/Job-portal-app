@@ -1,0 +1,66 @@
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\appsettings.Development.json
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\appsettings.json
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Online Job.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Online Job.exe
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Online Job.deps.json
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Online Job.runtimeconfig.json
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Online Job.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Online Job.pdb
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Azure.Core.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Azure.Identity.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Humanizer.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.CodeDom.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Memory.Data.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\bin\Release\net7.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets\msbuild.Online Job.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets\msbuild.build.Online Job.props
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Online Job.props
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets\msbuild.buildTransitive.Online Job.props
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets.build.json
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\staticwebassets.development.json
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\scopedcss\bundle\Online Job.styles.css
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.csproj.CopyComplete
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\refint\Online Job.dll
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.pdb
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\Online Job.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Online Job\Online Job\obj\Release\net7.0\win-x64\ref\Online Job.dll

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9wbEXtB8MgLIYXpnQnv0a95AggkojzqiSbPbPuObHpk=",
+  "Source": "Online Job",
+  "BasePath": "_content/Online Job",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Online Job\\wwwroot",
+      "Source": "Online Job",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Online Job\\Online Job\\wwwroot\\",
+      "BasePath": "_content/Online Job",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
